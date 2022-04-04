@@ -2,5 +2,4 @@
 
 ** Bold Text **
 
-Azisadnan
-sokosugi
+Mohamad Azis Adnan Sokosugi
